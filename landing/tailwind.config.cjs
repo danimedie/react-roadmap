@@ -7,9 +7,11 @@ module.exports = {
     extend: {
       colors: {
         primary: "#1DA1F2",
+        dark: "#232323"
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
+        gelasio: ["Gelasio", "sans-serif"]
       },
     },
   },
